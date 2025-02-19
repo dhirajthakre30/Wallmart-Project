@@ -16,8 +16,8 @@ Walmart operates a vast network of retail stores across various locations, and i
 **Evaluate Store Performance** – Identify the best and worst-performing stores based on historical data and analyze the reasons behind performance variations.
 
 **Predict Future Sales**  – Develop predictive models using machine learning techniques to forecast sales for the upcoming weeks and assist in decision-making.
-**3. Data Description**
 
+**3. Data Description**
 **I. Dataset Overview:**
 * Total Rows: 6,435
 * Total Columns: 8
