@@ -18,6 +18,7 @@ Walmart operates a vast network of retail stores across various locations, and i
 **Predict Future Sales**  – Develop predictive models using machine learning techniques to forecast sales for the upcoming weeks and assist in decision-making.
 
 **3. Data Description**
+
 **I. Dataset Overview:**
 * Total Rows: 6,435
 * Total Columns: 8
@@ -53,7 +54,7 @@ I have chosen the Facebook prophet for this project for following reason
 * Works Well with Daily, Weekly, and Monthly Data
 * Supports Multiplicative & Additive Seasonality
 
-  **6 Assumptions**
+**6 Assumptions**
 1. Data Quality Assumptions
 * No Missing Data – We assume that all key variables (sales, dates, prices, unemployment rates) are available and accurate.
 * Correct Data Types – The dataset should have the correct formats (e.g., dates in datetime format).
@@ -69,7 +70,7 @@ I have chosen the Facebook prophet for this project for following reason
 * No abrupt market changes – We assume that no sudden economic crashes or unexpected external factors drastically change sales patterns.
 * Independence of stores – We assume sales in one store don’t directly affect sales in another store.
 
- **7. Model Evaluation for Facebook Prophet**
+**7. Model Evaluation for Facebook Prophet**
 Once we build a forecasting model using Prophet, we need to evaluate its performance using
 1. error metrics and
 2. validation techniques.
@@ -101,7 +102,7 @@ Business Recommendations
 * Monitor Economic Indicators – Adjust pricing or promotions based on unemployment rates and fuel prices.
 * Enhance Store-Level Forecasting – Use individual store data for more granular sales predictions.
 
-  **10. Conclusion**
+**10. Conclusion**
 
 * prophet successfully forecasts Walmart's weekly sales with reasonable accuracy.
 * Sales follow clear seasonal trends influenced by holidays, fuel prices, and economic conditions.
