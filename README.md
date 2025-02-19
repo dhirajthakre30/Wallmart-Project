@@ -11,20 +11,21 @@ Walmart operates a vast network of retail stores across various locations, and i
  Evaluate Store Performance – Identify the best and worst-performing stores based on historical data and analyze the reasons behind performance variations.
  Predict Future Sales – Develop predictive models using machine learning techniques to forecast sales for the upcoming weeks and assist in decision-making.
 
-# 3. Data Description
- I. Dataset Overview:
-Total Rows: 6,435
-Total Columns: 8
+**3. Data Description**
 
- II. Column Details:
- Store (int64): Store ID (1 to 45)
- Date (object): Weekly timestamp (Format: DD-MM-YYYY)
- Weekly_Sales (float64): Total sales for the store in that week
- Holiday_Flag (int64): Indicates if the week had a holiday (1 = Holiday, 0 = Non-Holiday)
- Temperature (float64): Average temperature for that week
- Fuel_Price (float64): Fuel price for that week
- CPI (float64): Consumer Price Index
- Unemployment (float64): Unemployment rate for that period
+**I. Dataset Overview:**
+* Total Rows: 6,435
+* Total Columns: 8
+
+**II. Column Details:**
+* **Store** (int64): Store ID (1 to 45)
+* **Date** (object): Weekly timestamp (Format: DD-MM-YYYY)
+* **Weekly_Sales** (float64): Total sales for the store in that week
+* **Holiday_Flag** (int64): Indicates if the week had a holiday (1 = Holiday, 0 = Non-Holiday)
+* **Temperature** (float64): Average temperature for that week
+* **Fuel_Price** (float64): Fuel price for that week
+* **CPI** (float64): Consumer Price Index
+* **Unemployment** (float64): Unemployment rate for that period
 
 **4. Data Pre-processing Steps and Inspiration**
 1. Load the Data
