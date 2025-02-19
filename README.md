@@ -1,16 +1,21 @@
 # Wallmart-Project
 Predicting the weekly sales of each store for 12 weeks
 
-# 1. Problem Statement: Walmart Sales Forecasting and Analysis
+**1. Problem Statement: Walmart Sales Forecasting and Analysis**
+
 Walmart operates a vast network of retail stores across various locations, and its sales performance is influenced by multiple factors, including seasonality, economic indicators, and promotional events. Analyzing and predicting sales trends is crucial for optimizing inventory management, staffing, and marketing strategies.
 
-# 2. The objective of this project is to analyze historical sales data from Walmart stores to:
- Identify Key Sales Drivers – Understand the impact of factors like holidays, promotions, consumer price index (CPI), unemployment rate, fuel prices, and temperature on weekly sales.
- Detect Seasonality and Trends – Explore patterns in sales data to determine high and low sales periods.
- Performance based on Temperature - Does temperature affect the weekly sales in any manner
- Evaluate Store Performance – Identify the best and worst-performing stores based on historical data and analyze the reasons behind performance variations.
- Predict Future Sales – Develop predictive models using machine learning techniques to forecast sales for the upcoming weeks and assist in decision-making.
+**2. The objective** of this project is to analyze historical sales data from Walmart stores to:
 
+**Identify Key Sales Drivers** – Understand the impact of factors like holidays, promotions, consumer price index (CPI), unemployment rate, fuel prices, and temperature on weekly sales.
+
+**Detect Seasonality and Trends** – Explore patterns in sales data to determine high and low sales periods.
+
+**Performance based on Temperature** - Does temperature affect the weekly sales in any manner
+
+**Evaluate Store Performance** – Identify the best and worst-performing stores based on historical data and analyze the reasons behind performance variations.
+
+**Predict Future Sales**  – Develop predictive models using machine learning techniques to forecast sales for the upcoming weeks and assist in decision-making.
 **3. Data Description**
 
 **I. Dataset Overview:**
